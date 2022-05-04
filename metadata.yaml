@@ -1,0 +1,40 @@
+_repo: Modern-Woman-Her-Intentions_67912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farr, Florence
+    alias: Emery, Florence Farr
+    birthdate: 1860
+    deathdate: 1917
+    gutenberg_agent_id: '54529'
+    url: http://www.gutenberg.org/2009/agents/54529
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Farr
+description: ''
+gutenberg_issued: '2022-04-23'
+identifiers:
+  gutenberg: '67912'
+  lccn: a10001381
+language: en
+pgterms:marc904: https://archive.org/details/modernwomanherin00farruoft/page/n3/mode/2up
+pgterms:marc905: 20200317062024farr
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Tim Lindell, Martin Pettit and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: United Kingdom :Frank Palmer,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Women -- History'
+- GITenberg
+tableOfContents: Preface -- The vote -- Women's incomes -- The variations of love
+  -- The sordid divorce -- The green houses of Japan -- Beauty and motherhood -- The
+  new psychology -- The imaginative woman -- Experiments -- The savage, the barbarian,
+  the civilized.
+title: 'Modern Woman: Her Intentions'
+url: http://www.gutenberg.org/ebooks/67912
